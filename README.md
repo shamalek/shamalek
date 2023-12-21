@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/shamalek/activedirectory)
+  - [Active Directory Home Lab](https://github.com/shamalek/Home-lab-running-AD-adding-user-using-powershell)
 
 
 
