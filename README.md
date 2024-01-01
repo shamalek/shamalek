@@ -7,9 +7,9 @@
 
 <h2>👨‍💻 Software Projects: </h2>
 
- <ol type=bullet> 
+ <ul> 
  <li>Spotify Clone</li>
- </ol>
+ </ul>
 
 
 
