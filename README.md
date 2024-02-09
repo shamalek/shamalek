@@ -1,16 +1,20 @@
 <h1>Hi, I'm Shamal! <br/>
 
-<h2>👨‍💻 IT Projects:</h2>
-
-
-  - [Active Directory Home Lab](https://github.com/shamalek/Home-lab-running-AD-adding-user-using-powershell)
-
 <h2>👨‍💻 Software Projects: </h2>
 
  <ul> 
  <li>Spotify Clone</li>
  </ul>
 
+
+<h2>👨‍💻 IT Projects:</h2>
+
+
+  - [Active Directory Home Lab](https://github.com/shamalek/Home-lab-running-AD-adding-user-using-powershell)
+
+
+
+ 
 
 
 
