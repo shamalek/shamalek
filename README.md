@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Projects: </h2>
 
  <ul> 
- <li>Spotify Clone</li>
+ <li><a href="https://github.com/shamalek/Spotify-Clone">Spotify Clone</a></li>
  </ul>
 
 
